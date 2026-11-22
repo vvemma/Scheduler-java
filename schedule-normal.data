@@ -1,0 +1,33 @@
+TITLE = New Year
+START = 2026-01-01 00:00
+;
+TITLE = Exam
+START = 2025-12-17 18:00
+END = 2025-12-17 18:00
+PLACE = 310
+;
+TITLE = Test Save
+START = 2025-12-27 18:00
+;
+TITLE = Report 1 Deadline
+START = 2026-03-15 23:59
+;
+TITLE = Semester Starts
+START = 2026-03-02 13:00
+END = 2026-03-02 13:50
+PLACE = EClass
+;
+TITLE = Arbor Day
+START = 2026-04-05 00:00
+;
+TITLE = Assignment 4 Deadline
+START = 2026-05-10 23:59
+PLACE = eClass
+;
+TITLE = Assignment 5 Deadline
+START = 2026-05-24 23:59
+PLACE = eClass
+;
+TITLE = Six-five
+START = 2026-06-05 12:00
+;
